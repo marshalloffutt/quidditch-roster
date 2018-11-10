@@ -12,7 +12,14 @@ This project is an exploration of SASS styling by creating a Quiddich roster for
 * ES6 Modules
 
 ### How to run this app
-Two run this app you will need two terminals - one serving up the json data and one running the app.
+To run this app you will need a firebase account and a new project.
+
+Configure Firebase
+in the db folder, rename apiKeys.json.example to apiKeys.json
+Add in the config object from your firebase project
+Serve up the app
+At the root of the project: npm install
+npm start
 
 1.  Serving up the json data
 * globally install json-server: `npm install -g json-server`
