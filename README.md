@@ -1,7 +1,7 @@
 # The Quidditch Roster
 
 ### Description
-This project is an exploration of SASS styling by creating a Quiddich roster for Hogwarts. Once loaded the user has the ability to filter the list of players by the house they belong to.
+This was a code-along project in class that is an exploration of SASS styling by creating a Quiddich roster for Hogwarts. Once loaded the user has the ability to filter the list of players by the house they belong to.
 
 ![mainview](./screenshots/mainview.png)
 
