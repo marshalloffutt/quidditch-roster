@@ -21,7 +21,7 @@ This exercise was mostly copy and paste from what the instructors had already co
 Note: To run this app you will need a firebase account and a new project.
 
 ### 1. Configure Firebase
-1. Clone the repository to a local machine.
+1. Clone the repository to your local machine.
 2. Run the following command in terminal to download the web dependencies: `npm install`
 3. In the db folder, rename apiKeys.json.example to apiKeys.json.
 4. In Firebase, create a new project.
