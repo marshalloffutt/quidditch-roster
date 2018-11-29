@@ -1,7 +1,9 @@
 # The Quidditch Roster
 
 ## Description
-This was an intense in-class code-along practice exercise to create an app that displays cards for quidditch players, and filters by House. The app is interesting because it uses multiple types of data (players, teams, houses), and component-based javascript. This project also introduces Sass styling and Firebase. Once loaded the user has the ability to filter the list of players by the house they belong to. This exercise was mostly copy and paste what the instructors had already coded. As such, I cannot take any credit for any of the code in this repository.
+This was an intense in-class code-along practice exercise to create an app that displays cards for quidditch players, and filters by House. The app is interesting because it uses multiple types of data (players, teams, houses), and component-based JavaScript. This project also introduces Sass styling and Firebase. Once the app is loaded, the user has the ability to filter the list of players by the house they belong to.
+
+This exercise was mostly copy and paste from what the instructors had already coded. As such, I cannot take any credit for any of the code in this repository.
 
 ![mainview](./screenshots/snapshot1.png)
 ![gryffindor](./screenshots/snapshot2.png)
@@ -10,7 +12,7 @@ This was an intense in-class code-along practice exercise to create an app that 
 ![hufflepuff](./screenshots/snapshot5.png)
 
 ## Technologies Used
-* SASS
+* Sass
 * Webpack
 * Axios
 * ES6 Modules
