@@ -34,5 +34,5 @@ Note: To run this app you will need a firebase account and a new project.
 * [Zoe Ames](https://github.com/zoeames)
 * [Callan Morrison](https://github.com/morecallan)
 
-# Junior Contributor (but not really)
+### Junior Contributor (but not really)
 * [Marshall Offutt](https://github.com/marshalloffutt)
